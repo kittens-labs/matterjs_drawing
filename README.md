@@ -7,9 +7,9 @@ It works on PC/MAC, Tablet, and Smartphone.
 <br />
 <br />
 Demo Movie<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iczJ1GbM_as?si=DO4FZuncxMB4RqzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=iczJ1GbM_as" target="_blank">Youtube</a>
 <br />
 <br />
 Demo Game<br />
-<a href="https://kittens-labs.onrender.com/gtrinity" target="_blank"></a>
+<a href="https://kittens-labs.onrender.com/gtrinity" target="_blank">G-TRINITY</a>
 
